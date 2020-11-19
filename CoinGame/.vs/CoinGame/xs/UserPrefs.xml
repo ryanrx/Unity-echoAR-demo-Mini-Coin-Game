@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6AE7119E-44D2-D691-E857-A8992B71CC4F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/echoAR/CustomBehaviour.cs">
+    <Files>
+      <File FileName="Assets/echoAR/CustomBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/P1Controller.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/P2Controller.cs" Line="5" Column="1" />
+      <File FileName="Assets/echoAR/RemoteTransformations.cs" Line="1" Column="1" />
+      <File FileName="Assets/echoAR/echoAR.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoinGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="echoAR" expanded="True">
+                <Node name="CustomBehaviour.cs" selected="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ad81603b-e4cb-429b-9620-426a8dc8d10e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
